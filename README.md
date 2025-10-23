@@ -442,17 +442,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Contract:** https://sepolia.basescan.org/address/0x944ad7517d1a13A670E9b7E4275ff5993184f96E
 - **Base Batches:** https://basebatches.xyz
 - **Base Network:** https://base.org
-
----
-
-## 📞 Contact
-
-**Project:** SalaryStream  
-**Developer:** Kelvin Macharia (kevmach)  
-**GitHub:** [@kevmach](https://github.com/kevmach)  
-**Built:** October 2025  
-**Location:** Harare, Zimbabwe
-
 ---
 
 ## 🙏 Acknowledgments
@@ -460,9 +449,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built during **Base Batches 002**
 - Powered by **Base** blockchain
 - Inspired by the need for financial inclusion
-- Special thanks to **Base Southern Africa** team
-- Thanks to **Gugu Base** for technical support
-
 ---
 
 ## 📈 Stats
@@ -470,13 +456,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Contract Address:** `0x944ad7517d1a13A670E9b7E4275ff5993184f96E`
 - **Network:** Base Sepolia
 - **Deployment Date:** October 23, 2025
-- **Status:** ✅ Live & Working
-- **Platform Fee:** 2%
-- **Target Market:** 150M+ users
 
 ---
-
-<div align="center">
 
 **Built with ❤️ on Base**
 
