@@ -27,12 +27,25 @@ SalaryStream enables employees to withdraw earned wages on-demand with just **2%
 
 ---
 
-## 💡 The Problem
+# The Problem: Financial Exclusion & Predatory Lending in Africa
 
-- **78%** of Americans live paycheck-to-paycheck
-- **$15B+** spent annually on payday loans in the US
-- **15-20%** fees on payday loans trap workers in debt
-- Traditional payroll forces 2-4 week wait for earned wages
+## Key Statistics
+- **85%+** of sub-Saharan Africans lack access to formal financial services
+- **70%** of Africa's workforce operates in the informal economy with irregular pay
+- **63%** of Africans live on less than $3.20/day, making wage delays devastating
+- **$10B+** flows through informal lending channels annually
+
+## The Debt Trap
+- **20-400%** interest rates from informal moneylenders and mobile loan apps
+- Mobile lending apps charge **15-40%** interest for 30-day loans
+- Traditional "shylocks" charge **20-30%** per month
+- Workers lose **30-50%** of monthly income to interest and fees
+
+## The Core Issue
+Workers (domestic staff, casual laborers, gig workers) wait weeks or months for wages, forcing them to take predatory loans for basic needs like food, rent, school fees, and medical emergencies. With no credit history and limited financial access, they're trapped in a vicious cycle of debt that compounds poverty rather than relieving it.
+
+## The Opportunity
+Break the cycle by giving workers instant access to their earned wages, eliminating the need for predatory loans entirely.
 
 ---
 
@@ -223,20 +236,36 @@ vs. Payday Loan (15%): $75 fee
 
 ---
 
-## 🎯 Market Opportunity
+# 🎯 Market Opportunity (African Context)
 
-### Target Market
+## Target Market
 
 **Primary Users:**
-- Gig economy workers (150M+ globally)
-- Hourly wage workers
-- Remote contractors
-- Web3-native companies
+- **Gig economy workers** (18M+ in Africa, growing 130% annually)
+- **Informal sector workers** (85% of Africa's workforce - 700M+ people)
+- **Mobile money users** (475M+ mobile internet users across Africa)
+- **Urban youth** (highest youth unemployment globally: 60-76% in key markets)
+- **Key sectors:** Ride-hailing, delivery, domestic work, construction, retail
 
-**Market Size:**
-- $7.8B EWA market by 2028
-- 18.3% CAGR
-- 78% of workers live paycheck-to-paycheck
+**Priority Markets:**
+- Kenya (1.2M gig workers, 216% growth in 5 years)
+- Nigeria (largest population, rapid digital adoption)
+- South Africa (mature fintech infrastructure)
+- Ghana, Egypt, Rwanda (emerging digital economies)
+
+## Market Size
+
+- **$18M+** active gig workers in Africa (2024)
+- **130%** annual growth in gig job postings (vs 14% in North America)
+- **700M+** informal workers lacking financial access
+- **$180M** African Development Bank investment in gig economy (2023-2026)
+- **65%** of African gig activity concentrated in Kenya, Nigeria, South Africa
+- **2.4%** contribution to Kenya's GDP from gig economy (2021, up from 1.4% in 2017)
+
+## Growth Drivers
+
+- **Mobile-first economy:** 475M+ mobile internet users
+- **Fastest urbanization globally:** 3.5% annual
 
 ### Competitive Advantages
 
@@ -260,7 +289,7 @@ vs. Payday Loan (15%): $75 fee
 ### 🔄 Phase 2: Beta Launch (Q1 2026)
 - Base mainnet deployment
 - Professional security audit
-- Pilot with 3-5 Web3 companies
+- Pilot with 2-3 Web3 companies
 - Enhanced UI/UX improvements
 - Bug fixes and optimizations
 
